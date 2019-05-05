@@ -6,7 +6,7 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
 
-public class DBConnectionClient {
+public class DBConnectionClient {//Adding  comment to test commit
 
 	private final String url = "jdbc:postgresql://localhost/postgres";
 	private final String user = "postgres";
